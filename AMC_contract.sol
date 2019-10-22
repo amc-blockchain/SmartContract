@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'AMC' 'Knowledge Measurement Organization Token' token contract
+// 'AMC' 'Anonymous Coin Token' token contract
 //
 // Symbol      : AMC
 // Name        : Anonymous Coin
